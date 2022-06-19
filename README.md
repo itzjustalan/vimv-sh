@@ -1,3 +1,6 @@
+# ARCHIVED!!
+check out my rewrite in rust it moves stuff into /tmp instead of rm -rf lol
+
 # vimv
 
 vimv is a terminal-based file rename utility that lets you easily mass-rename files using Vim.
