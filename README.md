@@ -1,5 +1,6 @@
 # ARCHIVED!!
 check out my rewrite in rust it moves stuff into /tmp instead of rm -rf lol
+https://github.com/itzjustalan/vimv
 
 # vimv
 
